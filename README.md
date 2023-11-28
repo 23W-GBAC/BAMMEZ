@@ -14,8 +14,7 @@ Orchitis
 Testicular cancer 
 # SYMPTOMS
 The following indications and symptoms in the testicles may be experienced by men with blue balls:
-
 heaviness
 aching
-discomfort or mild pain![cb973f2277d74830cdc3063dcdf77623](https://github.com/23W-GBAC/BAMMEZ/assets/148863133/5e9145c3-8345-4f81-ad81-79dadfccc7f6)
+discomfort or mild pain
 
