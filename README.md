@@ -18,3 +18,11 @@ heaviness
 aching
 discomfort or mild pain
 
+
+
+
+#2
+###SMOKING 
+
+
+
