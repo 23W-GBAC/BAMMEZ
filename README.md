@@ -22,7 +22,35 @@ discomfort or mild pain
 
 
 #2
-###SMOKING 
+###  SMOKING 
+Smoking generally refers to the inhalation of the smoke of burning tobacco, which contains nicotine and other harmful chemicals. It is a common method of consuming tobacco, and it can have various effects on health.
+
+![_b188bad7-581b-4ae7-a13b-2ab916bd4c24](https://github.com/23W-GBAC/BAMMEZ/assets/148863133/cc57dc88-1e41-4e6a-8e78-9b3c0cd64705)
+
+
+
+
+#  WHY PEOPLE SMOKE 
+
+To feel warm. people in cold environments tend to smoke to warm up there bodies .
+Due to peer pressure . People smoke to due to the influence from there friends .
+To mediate .Some people consider smoking as a way of releasing strees and relaxation of the mind .
+To pass time. Some people tend to smoke to pass time due to lack of other activities to endulge in .
+
+# ADVANTAGES OF SMOKING 
+
+Relaxation: Some people associate smoking with stress relief or relaxation.
+Social Interaction: In certain social contexts, smoking may be perceived as a way to socialize or bond with others.
+
+
+![_462b7390-238b-4d48-9ee5-19ea42f3d172](https://github.com/23W-GBAC/BAMMEZ/assets/148863133/47dc6834-920d-451f-94f7-be35f53f5f01)
+
+
+
+
+
+
+
 
 
 
