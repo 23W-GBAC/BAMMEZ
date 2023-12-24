@@ -23,5 +23,5 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt  # If you have dependencies
 
-    - name: Run Python script
+    - name: Python script
       run: python main.py  
