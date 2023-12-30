@@ -17,8 +17,7 @@ def get_github_members(org_name, access_token):
 
 # Replace 'your_organization' and 'your_access_token' with your actual organization name and GitHub access token
 organization_name = '23W-GBAC'
-github_access_token = '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'
-
+github_access_token = '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'
 members = get_github_members(organization_name, github_access_token)
 
 if members:
