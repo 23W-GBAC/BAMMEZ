@@ -5,8 +5,6 @@ import requests
 I added my git hub user name and added the access token to give access to my code so that it could access my github account and also the access token to act as an access key to my git hub account.then i added the base URL.
 USERNAME = 'Bammez'
 ACCESS_TOKEN = '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'
-
-
 BASE_URL = 'https://api.github.com'
 
 # second step
